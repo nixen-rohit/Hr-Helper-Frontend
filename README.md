@@ -1,8 +1,3 @@
-# Bugs & Errors Studio internship Assignment
-
-# Round 1
-# junior Full stack Dev 
-
  
 ### Commands
 
